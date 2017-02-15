@@ -17,4 +17,5 @@ class GameScene: SKScene {
         
     }
     
+    //Here's a little comment made by Jonathan to check that he can properly push to the repository.
 }
